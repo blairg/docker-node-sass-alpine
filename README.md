@@ -1,5 +1,5 @@
 # Description
-Dockerfile which installs Node-SASS in an Alpine Linux image. Node 8.5.0
+Dockerfile which installs Node-SASS in an Alpine Linux image. Node 8.7.0
 
 # Docker Hub
 https://hub.docker.com/r/blairguk/node-sass-alpine/
@@ -8,4 +8,4 @@ https://hub.docker.com/r/blairguk/node-sass-alpine/
 docker pull blairguk/node-sass-alpine
 
 # Run image
-docker run blairguk/node-sass-alpine:8.5.0 node-sass-alpine
+docker run blairguk/node-sass-alpine:8.7.0 node-sass-alpine
