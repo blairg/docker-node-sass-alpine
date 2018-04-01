@@ -13,4 +13,4 @@ docker run blairguk/node-sass-alpine:<NODE_VERSION> node-sass-alpine
 # Upgrade Node
 
 * `docker build -t blairguk/node-sass-alpine:<NODE_VERSION> .`
-* `docker push blairguk/node-sass-alpine:<NODE_VERSION> .`
+* `docker push blairguk/node-sass-alpine:<NODE_VERSION>`

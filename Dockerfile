@@ -1,4 +1,4 @@
-FROM node:8.9.4-alpine
+FROM node:8.11.0-alpine
 
 RUN apk update && \
     apk upgrade && \
